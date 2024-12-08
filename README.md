@@ -1,4 +1,4 @@
-# 📚 LawBot: AI-Powered Legal Assistant 🤖
+# 📚 **LawBot: AI-Powered Legal Assistant 🤖**
 
 **LawBot** is a Python-based chatbot designed to answer legal queries intelligently. By leveraging Natural Language Processing (NLP) and a neural network, it simplifies legal interactions and provides accurate responses, making legal assistance accessible to all.
 
@@ -97,6 +97,12 @@
 - Add support for multiple languages.  
 - Implement voice-based interactions.  
 - Enhance model accuracy with larger datasets.  
+
+---
+
+## 📫 **Contact**  
+If you have any questions, issues, or feedback regarding **LawBot**, feel free to reach out!  
+📧 **Email**: [monishkumarpecai@gmail.com](mailto:monishkumarpecai@gmail.com)  
 
 ---
 
