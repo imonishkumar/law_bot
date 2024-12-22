@@ -111,4 +111,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to contribute or report issues. Let's make legal assistance smarter and more accessible! 🎉  
+Feel free to contribute or report issues. Let's make legal assistance smarter and more accessible! monishkumarpecai@gmail.com 🎉  
