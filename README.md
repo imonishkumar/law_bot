@@ -29,8 +29,8 @@
 
 1. **Clone the Repository**  
    ```bash  
-   git clone https://github.com/your-username/LawBot.git  
-   cd LawBot  
+   git clone https://github.com/imonishkumar/law_bot.git  
+   cd law_bot  
    ```  
 
 2. **Install Dependencies**  
