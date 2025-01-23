@@ -1,7 +1,12 @@
-geocoder
 flask
 numpy
+nltk
+tensorflow
+keras
+scikit-learn
 pandas
+jsonschema
+requests
+geocoder
 flask_cors
 torch
-nltk
